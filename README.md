@@ -1,5 +1,6 @@
 # Lineage
 An app for users/authors everywhere to create and collaborate on intricate storylines.
+
 CSC 307  - Introduction to Software Engineering Winter 2025- project - done in collaboration with others
 
 Archive of the project after the completion of the class.
